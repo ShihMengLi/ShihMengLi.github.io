@@ -2,21 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://docs.google.com/document/d/1wKKe1o0H7RT-WPm-YY6-y-05BlxXVp_kL42J8q1Y-kc/edit?usp=sharing
+
