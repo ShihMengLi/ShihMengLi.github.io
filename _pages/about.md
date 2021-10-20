@@ -10,6 +10,6 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D student in [GRAIL](https://grail.cs.washington.edu/) at University of Washington. My research interests include Neural Rendering, 3D Vision and AR/VR application.
+I am a Ph.D student in [GRAIL](https://grail.cs.washington.edu/) at University of Washington, co-advised by [Prof. Ira Kemelmacher-Shlizerman](https://sites.google.com/view/irakemelmacher/home), [Prof. Steven Seitz](https://homes.cs.washington.edu/~seitz/) and [Prof. Brian Curless](https://homes.cs.washington.edu/~curless/). My research interests include Neural Rendering, 3D Vision and AR/VR application.
 
 During my study, I am fortunate to have opportunities to work with [Prof. Min Sun](https://aliensunmin.github.io/) in National Tsing Hua University, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech, and [Dr. Johannes Kopf](http://johanneskopf.de/) at Facebook.
