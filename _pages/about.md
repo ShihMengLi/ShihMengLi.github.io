@@ -10,4 +10,6 @@ redirect_from:
   - /home.html
 ---
 
-I am a graduate student working with [Prof. Min Sun](https://aliensunmin.github.io/) in the Electrical Engineering department at National Tsing Hua University. My research topics include **View Synthesis and 3-D Reconstruction**. During my internship at [Virginia Tech](https://ece.vt.edu/), I worked with [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) on Novel View Synthesis problem.
+I am a Ph.D student in [GRAIL](https://grail.cs.washington.edu/) at University of Washington. My research interests include Neural Rendering, 3D Vision and AR/VR application.
+
+During my study, I am fortunate to have opportunities to work with [Prof. Min Sun](https://aliensunmin.github.io/) in National Tsing Hua University, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech, and [Dr. Johannes Kopf](http://johanneskopf.de/) at Facebook.
