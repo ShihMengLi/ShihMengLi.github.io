@@ -5,6 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
+    <div class="pub-thumb"><img src="https://shihmengli.github.io/images/ambient_gaussian.png" style="width:240px;height:105px"></div>
+    <div class="pub-content">
+        <div class="pub-title">Modeling Ambient Scene Dynamics for Free-view Synthesis</div>
+        <div class="pub-author"><b>Meng-Li Shih</b>, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao</div>
+        <div class="pub-conf">Siggraph 2024</div>
+        [<a href="https://arxiv.org/abs/2406.09395">Paper</a>][<a href="https://ambientgaussian.github.io/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
+    <div class="pub-thumb"><img src="https://shihmengli.github.io/images/extra_nerf.png" style="width:240px;height:105px"></div>
+    <div class="pub-content">
+        <div class="pub-title">ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models</div>
+        <div class="pub-author"><b>Meng-Li Shih</b>, Wei-Chiu Ma, Lorenzo Boyice, Aleksander Holynski, Forrester Cole, Brian Curless, Janne Kontkanen</div>
+        <div class="pub-conf">CVPR 2024</div>
+        [<a href="https://arxiv.org/abs/2406.06133">Paper</a>][<a href="https://shihmengli.github.io/extranerf-website/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img src="https://shihmengli.github.io/images/3D-Photo-Inpainting.png" style="width:240px;height:105px"></div>
     <div class="pub-content">
         <div class="pub-title">3D Photography using Context-aware Layered Depth Inpainting</div>
