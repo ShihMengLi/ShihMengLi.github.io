@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
+    <div class="pub-thumb"><img src="/images/priorenhancegaussian.png" style="width:240px;height:105px"></div>
+    <div class="pub-content">
+        <div class="pub-title">Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video</div>
+        <div class="pub-author"><b><a href="https://shihmengli.github.io/">Meng-Li Shih</a></b>, <a href="https://github.com/YingHuan-Chen">Ying-Huan Chen</a>, <a href="https://yulunalexliu.github.io/">Yu-Lun (Alex) Liu</a>, <a href="https://homes.cs.washington.edu/~curless/">Brian Curless</a></div>
+        <div class="pub-conf">Siggraph Asia 2025</div>
+        [<a href="https://arxiv.org/abs/2512.11356">Paper</a>][<a href="https://priorenhancedgaussian.github.io/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img src="https://shihmengli.github.io/images/ambient_gaussian.png" style="width:240px;height:105px"></div>
     <div class="pub-content">
         <div class="pub-title">Modeling Ambient Scene Dynamics for Free-view Synthesis</div>
@@ -58,4 +67,3 @@ author_profile: true
         [<a href="https://arxiv.org/abs/2004.04727">Paper</a>][<a href="https://yenchenlin.me/adversarial_attack_RL/">Project Page</a>]
     </div>
 </div>
-
